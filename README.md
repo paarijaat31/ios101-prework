@@ -16,15 +16,38 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/aa72aceaf31e4a4ab1f652382fe8e60b?sid=d0dc3b37-e023-4554-b0a4-732ba0372564" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
+App 1:
+Whatsapp
+a)The ability to send texts, documents, images to different people
+b)Being able to do video calls.
+
+App 2: 
+Instagram
+a)The ability to share photos and videos with the world
+b)Stories to share with the world
+
+App 3:
+Apple Music 
+a) Sing Along feature
+b) The ability to see what my friend is listening to 
+
+App 4:
+Netflix 
+a) The Best Movie Content
+b) The content sorting 
+
+
+
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+No challenges were faced while completing the prework
+
 
 ## License
 
